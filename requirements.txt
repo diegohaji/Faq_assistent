@@ -1,0 +1,5 @@
+huggingface_hub>=0.24.5
+torch>=2.1.2
+transformers>=4.47.0.dev0
+pandas>=2.0.3
+tk
